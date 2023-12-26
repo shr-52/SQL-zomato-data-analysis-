@@ -24,7 +24,7 @@ This query identifies the most purchased item on the menu by counting the occurr
 Q5. Which item was the most popular for each customer? 
 
 This query finds the most popular item for each customer by counting the occurrences of each product_id for each userid in the sales table and selecting the one with the highest count.
-Zomato SQL Project
+
 
 
 
